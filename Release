@@ -1,8 +1,8 @@
-Origin: TweakWorld
-Label: TweakWord
+Origin: Tweak World's repo
+Label: Tweak World's repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: TweakWord
 Architectures: iphoneos-arm
 Components: main
-Description: A world of Tweaks
+Description: Twak Worlds's Cydia Repository
